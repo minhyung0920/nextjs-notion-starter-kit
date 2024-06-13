@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: https://circular-curtain-64c.notion.site/3e31f00c7d2d4a26aaa86d5e3e80d3ae?pvs=4,
+  rootNotionPageId: '3e31f00c7d2d4a26aaa86d5e3e80d3ae',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
